@@ -1,7 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL61j5Nfgot"
-#define BLYNK_TEMPLATE_NAME "Dolev Shmueli"
-#define BLYNK_AUTH_TOKEN "dqWpP9mwfw7UDfwWBi5pkAGoEfbu60Xf"
+
 // #define BLYNK_PRINT Serial
+#include "config.h"
 #include <LiquidCrystal_I2C.h>
 #include "pitches.h"
 #include <BlynkSimpleEsp32.h>
