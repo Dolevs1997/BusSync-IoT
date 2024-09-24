@@ -12,6 +12,7 @@ This information is relayed to the bus LEDS in real-time, allowing them to accur
 **Push Button Listener**: Detects and responds to button presses for interactive control.
 **Ultrasonic Distance Measurement**: Measures distances and displays them on LCDs for monitoring passenger count and safety.
 **WiFi Connectivity**: Connects to a WiFi network for Blynk communication and real-time updates.
+
 ## Setup
 
 1. **Install PlatformIO**: Follow the instructions on the [PlatformIO website](https://platformio.org/install) to install PlatformIO.
