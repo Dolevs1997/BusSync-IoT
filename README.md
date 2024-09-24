@@ -24,4 +24,8 @@ This project is an IoT application using ESP32, Blynk, and multiple LCDs to moni
    git init
 
 
+
+https://github.com/user-attachments/assets/3a20783c-df20-4089-ae73-f9e66aafb211
+
+
    ```
