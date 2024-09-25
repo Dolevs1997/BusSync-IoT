@@ -24,16 +24,8 @@ This information is relayed to the bus LEDS in real-time, allowing them to accur
    cd BusSync-IoT
 
 
-   ```
 
-#### 3. Push Your Project to GitHub
-
-1. **Initialize a Git Repository**:
-
-   ```sh
-   git init
-
-
+## Simulation
 
 https://github.com/user-attachments/assets/3a20783c-df20-4089-ae73-f9e66aafb211
 
