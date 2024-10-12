@@ -10,7 +10,7 @@ This information is relayed to the bus LEDS in real-time, allowing them to accur
 **Blynk Integration**: Remote monitoring and control via the Blynk mobile app.
 **Multiple LCDs**: Display real-time data from sensors for easy visualization.
 **Push Button Listener**: Detects and responds to button presses for interactive control.
-**Ultrasonic Distance Measurement**: Measures distances and displays them on LCDs for monitoring passenger count and safety.
+**Ultrasonic Distance Measurement**: Measures distances and displays them on LCDs for monitoring bus incoming.
 **WiFi Connectivity**: Connects to a WiFi network for Blynk communication and real-time updates.
 
 ## Project Structure
